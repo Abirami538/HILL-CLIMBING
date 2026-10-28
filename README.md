@@ -126,6 +126,5 @@ SimpleHillClimbing()
 <img width="1161" height="833" alt="image" src="https://github.com/user-attachments/assets/13122dd4-d0ca-423e-82e4-bc5f300d9948" />
 
 ## Result:
-
-    Thus the program to implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration is executed successfully.
+   Thus the program to implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration is executed successfully.
 
